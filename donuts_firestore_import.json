@@ -1,0 +1,130 @@
+{
+  "61d59cae348ca76a1703bd38": {
+    "type": "donut",
+    "name": "Raised",
+    "ppu": 0.55,
+    "batters": {
+      "batter": [
+        {
+          "code": "1001",
+          "type": "Regular"
+        }
+      ]
+    },
+    "topping": [
+      {
+        "code": "5001",
+        "type": "None"
+      },
+      {
+        "code": "5002",
+        "type": "Glazed"
+      },
+      {
+        "code": "5005",
+        "type": "Sugar",
+        "unhealthy": true
+      },
+      {
+        "code": "5003",
+        "type": "Chocolate"
+      },
+      {
+        "code": "5004",
+        "type": "Maple"
+      }
+    ]
+  },
+  "61d59cae348ca76a1703bd39": {
+    "type": "donut",
+    "name": "Cake",
+    "ppu": 0.55,
+    "batters": {
+      "batter": [
+        {
+          "code": "1001",
+          "type": "Regular"
+        },
+        {
+          "code": "1002",
+          "type": "Chocolate"
+        },
+        {
+          "code": "1003",
+          "type": "Blueberry"
+        },
+        {
+          "code": "1004",
+          "type": "Devil's Food"
+        }
+      ]
+    },
+    "topping": [
+      {
+        "code": "5001",
+        "type": "None"
+      },
+      {
+        "code": "5002",
+        "type": "Glazed"
+      },
+      {
+        "code": "5005",
+        "type": "Sugar",
+        "unhealthy": true
+      },
+      {
+        "code": "5007",
+        "type": "Powdered Sugar",
+        "unhealthy": true
+      },
+      {
+        "code": "5006",
+        "type": "Chocolate with Sprinkles"
+      },
+      {
+        "code": "5003",
+        "type": "Chocolate"
+      },
+      {
+        "code": "5004",
+        "type": "Maple"
+      }
+    ]
+  },
+  "61d59cae348ca76a1703bd3a": {
+    "type": "donut",
+    "name": "Old Fashioned",
+    "ppu": 0.55,
+    "batters": {
+      "batter": [
+        {
+          "code": "1001",
+          "type": "Regular"
+        },
+        {
+          "code": "1002",
+          "type": "Chocolate"
+        }
+      ]
+    },
+    "topping": [
+      {
+        "code": "5001",
+        "type": "None"
+      },
+      {
+        "code": "5002",
+        "type": "Glazed"
+      },
+      {
+        "code": "5003",
+        "type": "Chocolate"
+      },
+      {
+        "code": "5004",
+        "type": "Maple"
+      }
+    ]
+  }
+}
